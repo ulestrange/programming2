@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Q2
+namespace Part2Q2
 {
     class Program
     {
@@ -18,7 +18,7 @@ namespace Q2
                 */
 
 
-            for (int i=1; i<=20; i++)
+            for (int i = 1; i <= 20; i++)
             {
                 if (i == 6 || i == 8)
                 {
@@ -38,7 +38,7 @@ namespace Q2
                 {
                     Console.WriteLine(i);// write out the number if it is anything other than 6 or 8
                 }
-                
+
             }
 
 
